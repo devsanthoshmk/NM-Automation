@@ -1,6 +1,4 @@
 DOWNLOAD TWO FILES AND RUN
       1. pip install playwright
-      2. playwright install this two commands in your command promt or terminal
+      2. playwright install THIS TWO COMMANDS IN YOUR TERMINAL OR COMMAND PROMPT
 THEN RUN THIS NM Automation.py FILE WHERE THE links.json IS LOCTED MOSTLY IN DOWNLOADS
-
-      
